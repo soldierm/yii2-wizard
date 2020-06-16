@@ -1,0 +1,21 @@
+{
+  "name": "soldierm/yii2-wizard",
+  "description": "Bootstrap wizard for Yii2",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "zhouyang",
+      "email": "zy952014475@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "soldierm\\wizard\\": "./src"
+    }
+  },
+  "require": {
+    "yiisoft/yii2": "~2.0.6",
+    "yiisoft/yii2-bootstrap": "~2.0.6"
+  }
+}
