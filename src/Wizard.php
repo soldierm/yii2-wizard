@@ -48,7 +48,7 @@ class Wizard extends Widget
     private $content;
 
     /**
-     * @inheritdoc
+     * {@inheritdoc}
      */
     public function init()
     {
@@ -60,7 +60,7 @@ class Wizard extends Widget
     }
 
     /**
-     * @inheritdoc
+     * {@inheritdoc}
      */
     public function run()
     {
@@ -77,7 +77,7 @@ class Wizard extends Widget
     }
 
     /**
-     * @inheritdoc
+     * {@inheritdoc}
      */
     protected function handleOptions()
     {
